@@ -48,4 +48,5 @@
 	url = git@github.com:gdiannarbor/intro-databases.git
 [submodule "events/intermediate-python"]
 	path = events/intermediate-python
-	url = https://github.com/camdroid/intermediate-python
+	url = git@github.com:camdroid/intermediate-python.git
+	branch = master
